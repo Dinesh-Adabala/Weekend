@@ -22,5 +22,8 @@ public class Student3 {
             int total = a+b+c;
             System.out.println(total);
         }
+        public String getStudent(){
+                    System.out.println("Stash 1");
+                }
     }
 }
