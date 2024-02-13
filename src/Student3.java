@@ -25,5 +25,10 @@ public class Student3 {
         public String getStudent(){
                     System.out.println("Stash 1");
                 }
+        public String getStudent(){
+            System.out.println("stash2 check");
+        }
+                public String getStudent(){
+                    System.out.println("stash3 check");
     }
 }
